@@ -1,0 +1,25 @@
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+img{
+	width:500px;
+	height: 500px;
+	margin:10px;
+}
+
+div{
+	text-align: center;
+}
+
+body{
+	background-color:lightskyblue;
+}
+
+img:hover{
+	width: 520px;
+	height: 520px;
+	opacity:0.5;
+}
